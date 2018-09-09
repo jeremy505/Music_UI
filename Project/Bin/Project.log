@@ -1,0 +1,103 @@
+﻿生成启动时间为 2018/9/6 13:07:41。
+     1>项目“E:\Book\IM\Project\Project\Project\Project.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AboutDlg.cpp GifImage.cpp ImageEx.cpp MainDlg.cpp Path.cpp Project.cpp RichEditUtil.cpp SkinLib\SkinButton.cpp SkinLib\SkinComboBox.cpp SkinLib\SkinDialog.cpp SkinLib\SkinEdit.cpp SkinLib\SkinHyperLink.cpp SkinLib\SkinListCtrl.cpp SkinLib\SkinManager.cpp SkinLib\SkinMenu.cpp SkinLib\SkinMessageBox.cpp SkinLib\SkinPictureBox.cpp SkinLib\SkinRichEdit.cpp SkinLib\SkinScrollBar.cpp SkinLib\SkinStatic.cpp SkinLib\SkinTabCtrl.cpp SkinLib\SkinToolBar.cpp SkinLib\SkinWebBrowser.cpp XmlDocument.cpp
+         XmlDocument.cpp
+         SkinWebBrowser.cpp
+         SkinToolBar.cpp
+         SkinTabCtrl.cpp
+         SkinStatic.cpp
+         SkinScrollBar.cpp
+         SkinRichEdit.cpp
+         SkinPictureBox.cpp
+         SkinMessageBox.cpp
+         SkinMenu.cpp
+         SkinManager.cpp
+         SkinListCtrl.cpp
+         SkinHyperLink.cpp
+         SkinEdit.cpp
+         SkinDialog.cpp
+         SkinComboBox.cpp
+         SkinButton.cpp
+         RichEditUtil.cpp
+         Project.cpp
+         Path.cpp
+         正在生成代码...
+         正在编译...
+         MainDlg.cpp
+         ImageEx.cpp
+         GifImage.cpp
+         AboutDlg.cpp
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt zlib1.2.11\adler32.c zlib1.2.11\compress.c zlib1.2.11\crc32.c zlib1.2.11\deflate.c zlib1.2.11\gzclose.c zlib1.2.11\gzlib.c zlib1.2.11\gzread.c zlib1.2.11\gzwrite.c zlib1.2.11\infback.c zlib1.2.11\inffast.c zlib1.2.11\inflate.c zlib1.2.11\inftrees.c zlib1.2.11\trees.c zlib1.2.11\uncompr.c zlib1.2.11\zlibdemo.c zlib1.2.11\zutil.c
+         zutil.c
+         zlibdemo.c
+         uncompr.c
+         trees.c
+         inftrees.c
+         inflate.c
+         inffast.c
+         infback.c
+         gzwrite.c
+         gzread.c
+         gzlib.c
+         gzclose.c
+         deflate.c
+         crc32.c
+         compress.c
+         adler32.c
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0409" /IDebug\ /nologo /fo"Debug\Project.res" Project.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Bin\Project.exe" /INCREMENTAL /NOLOGO RichEd20.Lib version.lib odbc32.lib odbccp32.lib IMM32.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\Bin\Project.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Bin\Project.lib" /MACHINE:X86 Debug\Project.res
+         Debug\AboutDlg.obj
+         Debug\GifImage.obj
+         Debug\ImageEx.obj
+         Debug\MainDlg.obj
+         Debug\Path.obj
+         Debug\Project.obj
+         Debug\RichEditUtil.obj
+         Debug\SkinButton.obj
+         Debug\SkinComboBox.obj
+         Debug\SkinDialog.obj
+         Debug\SkinEdit.obj
+         Debug\SkinHyperLink.obj
+         Debug\SkinListCtrl.obj
+         Debug\SkinManager.obj
+         Debug\SkinMenu.obj
+         Debug\SkinMessageBox.obj
+         Debug\SkinPictureBox.obj
+         Debug\SkinRichEdit.obj
+         Debug\SkinScrollBar.obj
+         Debug\SkinStatic.obj
+         Debug\SkinTabCtrl.obj
+         Debug\SkinToolBar.obj
+         Debug\SkinWebBrowser.obj
+         Debug\stdafx.obj
+         Debug\XmlDocument.obj
+         Debug\adler32.obj
+         Debug\compress.obj
+         Debug\crc32.obj
+         Debug\deflate.obj
+         Debug\gzclose.obj
+         Debug\gzlib.obj
+         Debug\gzread.obj
+         Debug\gzwrite.obj
+         Debug\infback.obj
+         Debug\inffast.obj
+         Debug\inflate.obj
+         Debug\inftrees.obj
+         Debug\trees.obj
+         Debug\uncompr.obj
+         Debug\zlibdemo.obj
+         Debug\zutil.obj
+     1>RichEditUtil.obj : error LNK2019: 无法解析的外部符号 "void __cdecl Replace(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,wchar_t const *,wchar_t const *)" (?Replace@@YAXAAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PB_W1@Z)，该符号在函数 "void __cdecl RichEdit_GetImageInfo(struct HWND__ *,class std::vector<struct ImageInfo *,class std::allocator<struct ImageInfo *> > &)" (?RichEdit_GetImageInfo@@YAXPAUHWND__@@AAV?$vector@PAUImageInfo@@V?$allocator@PAUImageInfo@@@std@@@std@@@Z) 中被引用
+     1>..\Bin\Project.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“E:\Book\IM\Project\Project\Project\Project.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:18.89
